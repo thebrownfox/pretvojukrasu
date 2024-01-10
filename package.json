@@ -1,0 +1,29 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "eslint": "^8.56.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-prettier": "^5.1.2",
+    "lato-font": "^3.0.0",
+    "nuxt": "^3.8.2",
+    "prettier": "^3.1.1",
+    "vue": "^3.3.12",
+    "vue-router": "^4.2.5"
+  },
+  "dependencies": {
+    "@formatjs/intl-durationformat": "^0.2.0",
+    "@iconify-json/humbleicons": "^1.1.9",
+    "@nuxt/ui": "^2.11.1",
+    "sass": "^1.69.7"
+  }
+}
