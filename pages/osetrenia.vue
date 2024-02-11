@@ -7,7 +7,7 @@
 			<div class="flex justify-center w-full flex-wrap">
 				<div
 					v-for="procedure in group.procedures"
-					class="my-4 mx-4 overflow-hidden rounded-lg divide-y divide-gray-200 dark:divide-gray-800 ring-1 ring-gray-200 dark:ring-gray-800 shadow bg-white dark:bg-gray-900 w-80"
+					class="m-4 overflow-hidden rounded-lg divide-y divide-gray-200 dark:divide-gray-800 ring-1 ring-gray-200 dark:ring-gray-800 shadow bg-white dark:bg-gray-900 w-80"
 				>
 					<div
 						class="px-4 py-5 sm:p-6 flex flex-col justify-between h-full"

@@ -1,6 +1,6 @@
 <template>
 	<div class="p-10 flex flex-col h-full items-center">
-		<div
+		<!-- <div
 			class="flex flex-col items-center justify-center p-10 w-min m-auto"
 		>
 			<h2 class="font-serif text-5xl mb-3 whitespace-nowrap">
@@ -13,7 +13,7 @@
 			<UButton color="primary" size="lg" class="font-semibold mt-10"
 				>Rezervovať termín</UButton
 			>
-		</div>
+		</div> -->
 		<div class="hero-img2"></div>
 		<!-- <div class="hero-img">
 			<img src="/public/face.jpg" alt="" />
@@ -22,10 +22,10 @@
 			<h2 class="font-serif text-5xl text-center mb-8">
 				Populárne ošetrenia
 			</h2>
-			<div class="flex justify-center w-full">
+			<div class="flex justify-center w-full flex-wrap">
 				<div
 					v-for="procedure in procedures"
-					class="overflow-hidden rounded-lg divide-y divide-gray-200 dark:divide-gray-800 ring-1 ring-gray-200 dark:ring-gray-800 shadow bg-white dark:bg-gray-900 mx-4 w-80"
+					class="m-4 overflow-hidden rounded-lg divide-y divide-gray-200 dark:divide-gray-800 ring-1 ring-gray-200 dark:ring-gray-800 shadow bg-white dark:bg-gray-900 mx-4 w-80"
 				>
 					<div
 						class="px-4 py-5 sm:p-6 flex flex-col justify-between h-full"
