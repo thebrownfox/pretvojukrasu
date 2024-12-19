@@ -28,7 +28,7 @@ export default [
             {
                 title: "Obočie – úprava a farbenie",
                 text: "Pridaním zafarbenia obočia k jeho úprave, zákazníčkou zvolenou farbou na mieru k tónu pleti a farbe vlasov dosiahneme zvýraznenie tváre.",
-                price: 7,
+                price: 10,
                 duration: 30,
                 isFavourite: false,
             },
@@ -95,14 +95,14 @@ Cieľom tohto ošetrenia je okamžite zlepšiť hydratáciu a štruktúru pleti 
                 title: "Mezoterapia – bezihlová",
                 text: `Bezihlová mezoterapia je moderná kozmetická procedúra, ktorá využíva technológiu na vstrekovanie účinných látok do hlbších vrstiev pokožky bez potreby použitia tradičných ihiel. Táto metóda je obľúbená vďaka svojej minimálnej invazívnosti a menšiemu nepohodliu pre klientov. Je alternatívou k tradičnej mezoterapii ihlami, ktorá môže byť pre niektorých ľudí nepríjemná.
 Bezihlová mezoterapia sa zameriava na zlepšenie vzhľadu pokožky, redukciu vrások, zlepšenie štruktúry a zvýšenie hydratácie bez potreby použitia ihiel. `,
-                price: 47,
+                price: 55,
                 duration: 50,
                 isFavourite: true,
             },
             {
                 title: "Mezoterapia s hĺbkovým čistením",
                 text: `Mezoterapia s hĺbkovým čistením je kozmetická procedúra, ktorá kombinuje klasickú mezoterapiu s hĺbkovým čistením pleti. Ide o kombinovaný prístup, ktorého cieľom je dosiahnuť čistejšiu a zároveň revitalizovanú pleť. Toto ošetrenie je vhodné pre ľudí s problematickou pleťou, akné, nadmerným výskytom čiernych bodiek alebo pre tých, ktorí chcú zlepšiť celkový stav svojej pleti.`,
-                price: 46.90,
+                price: 55,
                 duration: 90,
                 isFavourite: false,
             },
@@ -227,14 +227,14 @@ Zlepšenie vzhľadu jaziev: Môže pomôcť zlepšiť vzhľad jazvičiek, preto�
             {
                 title: "Masáž tváre",
                 text: `Kozmetická masáž tváre je procedúra, ktorá sa zameriava na uvoľnenie, zlepšenie pružnosti pokožky, stimuláciu krvného obehu a uvoľnenie tvárových svalov. Táto masáž je obľúbená pre svoje priaznivé účinky na pokožku a celkový stav tvárových svalov.`,
-                price: 15,
-                duration: 25,
+                price: 30,
+                duration: 35,
                 isFavourite: false,
             },
             {
                 title: "Masáž tváre a dekoltu",
                 text: `Masáž tváre a krku je procedúra, ktorá kombinuje uvoľňujúce a tonizujúce masážne techniky tváre a krku. Cieľom tejto masáže je uvoľniť svaly tváre a krku, zlepšiť krvný obeh, dodať pokožke živiny a celkovo ju uvoľniť.`,
-                price: 25,
+                price: 40,
                 duration: 30,
                 isFavourite: false,
             }
